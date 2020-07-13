@@ -13,7 +13,8 @@ echo ($number1 * $number2) . "<br>";
 echo ($number2 / $number1) . "<br>";
 echo ($number1 - $number2 * $number2 + $number1 / $number2) . "<br>";
 $firstname = "Hashim Omar";
-$lastname =  "Zein";
-echo $firstname . " " . $lastname;
+$lastname = "Zein";
+echo $firstname . " " . $lastname . "<br>";
+$number2 = 7;
+echo $number2 % 3;
 
-  
