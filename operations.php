@@ -32,3 +32,7 @@ if (($number1 > $number2)) {
     $number2 = 1;
 }
 echo $number1 . " " . $number2;
+
+for ($number3 = 0; $number3 < 100; $number3 = $number3 + 1) {
+    echo $number3 . "<br>";
+}
